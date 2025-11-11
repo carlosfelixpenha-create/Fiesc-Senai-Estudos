@@ -1,5 +1,4 @@
 # Fiesc-Senai-Estudos
-# Materiais de Estudo
 
 ## Este repositório foi criado para reunir materiais de estudo, prática, desafios e desenvolvimento pessoal.
 
